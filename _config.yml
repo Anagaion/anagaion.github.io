@@ -1,10 +1,26 @@
 # Site settings
-name: Dat site title tho
-title: Your awesome title
+name: Anagaion
+title: The Upper Room
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "WWe want to experience the joy of our faith daily. We
+want to know the will of God and to choose which way
+to walk in. It is natural for believers of Christ to desire
+and think in those ways, but there are many who fail to
+prioritize them in their daily busy schedules.
+In this practical series “Anagaion” (Upper Room), Tony
+Woods has prayerfully prepared a program which will
+help encourage our daily walk with Christ and lead us to
+greater growth in faith.
+With the love letter of God, the Bible, as it’s foundation,
+this program offers a great capacity for us to be equipped
+as disciples of Christ Jesus. As we utilize this study,
+His blessings and grace will be evident not only among
+ourselves but will also reach out to the world around us.
+In our own passage through Christ’s upper room, we too
+will be able to understand more clearly the purposes and
+matters of our lives."
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://anagaion.github.io"
 
 # Build settings
 markdown: kramdown
